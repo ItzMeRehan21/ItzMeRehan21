@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Rehan
+- 👀 I’m interested in Pythons advanced features
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: Mail me(mail:rehan.wasi3010@proton.me)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I am dumb also lazy ;)
